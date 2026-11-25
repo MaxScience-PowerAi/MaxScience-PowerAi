@@ -14,7 +14,7 @@
   &nbsp;·&nbsp;
   <a href="https://christ-lowe-portfolio.vercel.app/fr"><strong>Portfolio / FR</strong></a>
   &nbsp;·&nbsp;
-  <a href="https://www.linkedin.com/in/christ-lowe-10a210389/">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/linze-lowe-christ-maxime/">LinkedIn</a>
   &nbsp;·&nbsp;
   <a href="https://x.com/LoweChrist13013">X</a>
   &nbsp;·&nbsp;
