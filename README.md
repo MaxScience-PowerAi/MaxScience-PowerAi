@@ -4,6 +4,7 @@
 </p>
 
 <p align="center">
+  <strong>LINZE LOWE CHRIST MAXIME</strong><br>
   <strong>AI & Data Science · Mathematics · Information Systems · Entrepreneurship</strong><br>
   Mathematics graduate · Master 1 MIAGE, University of Douala · Co-founder, IMMO Digital
 </p>
@@ -14,6 +15,10 @@
   <a href="https://christ-lowe-portfolio.vercel.app/fr"><strong>Portfolio / FR</strong></a>
   &nbsp;·&nbsp;
   <a href="https://www.linkedin.com/in/christ-lowe-10a210389/">LinkedIn</a>
+  &nbsp;·&nbsp;
+  <a href="https://x.com/LoweChrist13013">X</a>
+  &nbsp;·&nbsp;
+  <a href="https://www.instagram.com/linzelowechrist/">Instagram</a>
   &nbsp;·&nbsp;
   <a href="mailto:christlowe6@gmail.com">Contact</a>
 </p>
@@ -60,7 +65,9 @@ I explore the relationship between mathematical theory and computational experim
 
 ### 05 / Education & entrepreneurship
 
-**University of Douala** — Bachelor's degree in Mathematics; Master 1 MIAGE (2026–2027).
+**Mathematics** — Bachelor's degree completed.
+
+**University of Douala** — Master 1 MIAGE (2026–2027).
 
 **IMMO Digital** — Co-founder · Information Systems, AI & Data. [Company website](https://immodigital.tech/).
 
@@ -69,7 +76,7 @@ I explore the relationship between mathematical theory and computational experim
 <details>
 <summary><strong>Présentation en français</strong></summary>
 
-Diplômé en mathématiques et étudiant en Master 1 MIAGE à l’Université de Douala, je développe mes compétences en intelligence artificielle, data science et systèmes d’information. Cofondateur d’IMMO Digital, je souhaite relier la rigueur scientifique aux besoins réels des organisations et contribuer au développement technologique du Cameroun et de l’Afrique.
+Je suis Linze Lowe Christ Maxime, également connu professionnellement sous le nom de Christ Lowe. Diplômé en mathématiques et étudiant en Master 1 MIAGE à l’Université de Douala, je développe mes compétences en intelligence artificielle, data science et systèmes d’information. Cofondateur d’IMMO Digital, je souhaite relier la rigueur scientifique aux besoins réels des organisations et contribuer au développement technologique du Cameroun et de l’Afrique.
 
 Mes projets, mes expériences scientifiques et mon parcours sont accessibles sur mon [portfolio en français](https://christ-lowe-portfolio.vercel.app/fr).
 
