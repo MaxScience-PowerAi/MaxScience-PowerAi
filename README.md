@@ -25,13 +25,13 @@
 
 ---
 
-### 01 / Scientific foundation
+### About
 
 I chose mathematics as the foundation for a long-standing ambition: understanding and building intelligent systems. Today, I connect mathematical reasoning, applied AI and information systems through practical engineering and entrepreneurship in Cameroon.
 
 My work focuses on computer vision, conversational AI, machine learning and the mathematical principles underlying these systems. As co-founder of IMMO Digital, I contribute to technology solutions and the application of AI to business needs.
 
-### 02 / Selected engineering work
+### Selected projects
 
 | Project | Focus | Explore |
 | :--- | :--- | :--- |
@@ -39,11 +39,11 @@ My work focuses on computer vision, conversational AI, machine learning and the 
 | **IMMO Agent** | Conversational AI, retrieval-augmented generation, tool orchestration and enquiry qualification. | [Case study ↗](https://christ-lowe-portfolio.vercel.app/en/work/immo-agent) |
 | **Personal Intelligence Platform** | Bilingual scientific portfolio, custom CMS, PostgreSQL, interactive laboratory and public-content search. | [Live platform ↗](https://christ-lowe-portfolio.vercel.app/en) |
 | **Globus Engineering** | A team digitalization project undertaken with IMMO Digital in the construction sector. | [Case study ↗](https://christ-lowe-portfolio.vercel.app/en/work/globus) |
-| **Mathematics for AI** | AI-assisted learning repository: numerical linear algebra, optimization, reproducible experiments and tests. | [Learning repository ↗](https://github.com/MaxScience-PowerAi/Mathematics-for-AI) |
+| **Mathematics for AI** | Mathematical notes, numerical linear algebra, optimization and Python experiments. | [Learning repository ↗](https://github.com/MaxScience-PowerAi/Mathematics-for-AI) |
 
 Commercial and personal platform repositories remain private; the public case studies describe the shareable work.
 
-### 03 / Areas of practice
+### Areas of practice
 
 | Domain | Methods and technologies |
 | :--- | :--- |
@@ -56,7 +56,7 @@ Commercial and personal platform repositories remain private; the public case st
 
 These are areas of practice and ongoing study, not claims of expert-level mastery.
 
-### 04 / Scientific laboratory
+### Scientific laboratory
 
 I explore the relationship between mathematical theory and computational experiments through my interactive laboratory and research notes.
 
@@ -64,7 +64,7 @@ I explore the relationship between mathematical theory and computational experim
 - [Research interests](https://christ-lowe-portfolio.vercel.app/en/research) — optimization, perception and evaluation of intelligent systems.
 - [Learning resources](https://christ-lowe-portfolio.vercel.app/en/resources) — explanations and exercises.
 
-### 05 / Education & entrepreneurship
+### Education and entrepreneurship
 
 **Mathematics** — Bachelor's degree completed.
 
