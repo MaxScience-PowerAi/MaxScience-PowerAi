@@ -1,66 +1,81 @@
-# Hi, I'm LINZE LOWE CHRIST MAXIME 👋
+<!-- Personal profile — Monochrome Intelligence -->
+<p align="center">
+  <a href="https://christ-lowe-portfolio.vercel.app/en"><img src="./assets/profile-header.svg" alt="Christ Lowe — From mathematics to intelligence" width="100%"></a>
+</p>
 
-**AI and data science | Mathematics graduate | Master’s student in MIAGE**
+<p align="center">
+  <strong>AI & Data Science · Mathematics · Information Systems · Entrepreneurship</strong><br>
+  Mathematics graduate · Master 1 MIAGE, University of Douala · Co-founder, IMMO Digital
+</p>
 
-I’m based in Douala, Cameroon. I work on computer vision and conversational AI, and use my mathematics background to explain the methods behind my projects.
-
-[Portfolio en français](https://christ-lowe-portfolio.vercel.app/fr) · [Portfolio in English](https://christ-lowe-portfolio.vercel.app/en)
-
----
-
-## 👤 About me
-
-- 🎓 **Mathematics first:** Mathematics graduate and first-year master’s student in MIAGE in Douala, Cameroon
-- 🤖 **Mission:** Mastering Machine Learning, Deep Learning, Computer Vision, and AI Agents — step by step, with real projects
-- 🌍 **Vision:** Using AI to solve real problems in my city, Douala, and my country, Cameroon
-- 🙏 **Values:** My faith in God drives me toward my goals and helps me stay consistent, disciplined, and learn fast
-- 🎯 **Status:** Looking for an internship in AI / Data Science (remote or in Douala)
-
----
-
-## 🧠 Skills (honest snapshot)
-
-**Core foundation:** Linear Algebra, Probability, Statistics, Calculus
-**Programming:** Python
-**Learning now:** pandas, numpy, scikit-learn, matplotlib, TensorFlow, PyTorch
-**Tools:** Git, GitHub, Google Colab, Excel
-
-*I'd rather show you 1 finished project than list skills I haven't proven yet.*
+<p align="center">
+  <a href="https://christ-lowe-portfolio.vercel.app/en"><strong>Portfolio / EN</strong></a>
+  &nbsp;·&nbsp;
+  <a href="https://christ-lowe-portfolio.vercel.app/fr"><strong>Portfolio / FR</strong></a>
+  &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/christ-lowe-10a210389/">LinkedIn</a>
+  &nbsp;·&nbsp;
+  <a href="mailto:christlowe6@gmail.com">Contact</a>
+</p>
 
 ---
 
-## Selected work
+### 01 / Scientific foundation
 
-- [Vision Live](https://github.com/MaxScience-PowerAi/Vision-Live) — real-time object detection and tracking.
-- [IMMO Agent](https://christ-lowe-portfolio.vercel.app/en/work/immo-agent) — an assistant for questions about IMMO Digital and incoming enquiries.
-- [Interactive lab](https://christ-lowe-portfolio.vercel.app/en/lab) — five browser-based experiments in mathematics and machine learning.
+I chose mathematics as the foundation for a long-standing ambition: understanding and building intelligent systems. Today, I connect mathematical reasoning, applied AI and information systems through practical engineering and entrepreneurship in Cameroon.
+
+My work focuses on computer vision, conversational AI, machine learning and the mathematical principles underlying these systems. As co-founder of IMMO Digital, I contribute to technology solutions and the application of AI to business needs.
+
+### 02 / Selected engineering work
+
+| Project | Focus | Explore |
+| :--- | :--- | :--- |
+| **Vision Live** | Real-time object detection, tracking, visual memory and multimodal interaction. The repository includes a notebook and model setup documentation. | [Source code ↗](https://github.com/MaxScience-PowerAi/Vision-Live) |
+| **IMMO Agent** | Conversational AI, retrieval-augmented generation, tool orchestration and enquiry qualification. | [Case study ↗](https://christ-lowe-portfolio.vercel.app/en/work/immo-agent) |
+| **Personal Intelligence Platform** | Bilingual scientific portfolio, custom CMS, PostgreSQL, interactive laboratory and public-content search. | [Live platform ↗](https://christ-lowe-portfolio.vercel.app/en) |
+| **Globus Engineering** | A team digitalization project undertaken with IMMO Digital in the construction sector. | [Case study ↗](https://christ-lowe-portfolio.vercel.app/en/work/globus) |
+
+Commercial and personal platform repositories remain private; the public case studies describe the shareable work.
+
+### 03 / Areas of practice
+
+| Domain | Methods and technologies |
+| :--- | :--- |
+| Mathematics | Linear algebra, probability, statistics, calculus, optimization |
+| Data science & ML | Python, NumPy, pandas, scikit-learn, numerical experimentation |
+| Computer vision | OpenCV, object detection, segmentation, tracking, visual-language models |
+| Conversational AI | RAG, document retrieval, multilingual systems, agent workflows |
+| Information systems | SQL, PostgreSQL, systems analysis, decision support |
+| Engineering | Git, Jupyter, FastAPI, Next.js, reproducible documentation |
+
+These are areas of practice and ongoing study, not claims of expert-level mastery.
+
+### 04 / Scientific laboratory
+
+I explore the relationship between mathematical theory and computational experiments through my interactive laboratory and research notes.
+
+- [Scientific laboratory](https://christ-lowe-portfolio.vercel.app/en/lab) — browser-based mathematical and machine learning experiments.
+- [Research interests](https://christ-lowe-portfolio.vercel.app/en/research) — optimization, perception and evaluation of intelligent systems.
+- [Learning resources](https://christ-lowe-portfolio.vercel.app/en/resources) — explanations and exercises.
+
+### 05 / Education & entrepreneurship
+
+**University of Douala** — Bachelor's degree in Mathematics; Master 1 MIAGE (2026–2027).
+
+**IMMO Digital** — Co-founder · Information Systems, AI & Data. [Company website](https://immodigital.tech/).
 
 ---
 
-## 🚀 Vision Network — Founder
+<details>
+<summary><strong>Présentation en français</strong></summary>
 
-Vision Network is an early-stage community I founded for people who genuinely want to grow in their field: trading, data science, development, business, public speaking, content creation, and more.
+Diplômé en mathématiques et étudiant en Master 1 MIAGE à l’Université de Douala, je développe mes compétences en intelligence artificielle, data science et systèmes d’information. Cofondateur d’IMMO Digital, je souhaite relier la rigueur scientifique aux besoins réels des organisations et contribuer au développement technologique du Cameroun et de l’Afrique.
 
-We're still small — under 50 members, building from Cameroon where access to these spaces is rare. Every person who joins helps shape what this becomes.
+Mes projets, mes expériences scientifiques et mon parcours sont accessibles sur mon [portfolio en français](https://christ-lowe-portfolio.vercel.app/fr).
 
-The goal is simple:
-- Share useful knowledge
-- Exchange real ideas
-- Build solid connections
-- Move forward together in a serious, respectful environment
+</details>
 
-We look for motivated, ambitious people ready to bring real value. The rules are strict, and everyone is expected to respect the spirit of the group.
-
-**One network, many visions, one same goal.**
-
-[Join Vision Network](https://chat.whatsapp.com/BvAY2q2NXqQK9tDw7evm7E)
-
----
-
-## 📫 Contact
-
-- 📧 Email: christlowe6@gmail.com
-- 📱 WhatsApp: +237 678 831 868
-- 💼 LinkedIn: [Christ Lowe](https://www.linkedin.com/in/christ-lowe-10a210389/)
-
-*Languages: French (fluent), English (fluent)*
+<p align="center">
+  <em>Discipline + Work + Prayer = Success.</em><br>
+  <sub>Douala, Cameroon · From mathematics to intelligence.</sub>
+</p>
