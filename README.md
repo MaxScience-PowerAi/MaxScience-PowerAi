@@ -39,6 +39,7 @@ My work focuses on computer vision, conversational AI, machine learning and the 
 | **IMMO Agent** | Conversational AI, retrieval-augmented generation, tool orchestration and enquiry qualification. | [Case study ↗](https://christ-lowe-portfolio.vercel.app/en/work/immo-agent) |
 | **Personal Intelligence Platform** | Bilingual scientific portfolio, custom CMS, PostgreSQL, interactive laboratory and public-content search. | [Live platform ↗](https://christ-lowe-portfolio.vercel.app/en) |
 | **Globus Engineering** | A team digitalization project undertaken with IMMO Digital in the construction sector. | [Case study ↗](https://christ-lowe-portfolio.vercel.app/en/work/globus) |
+| **Mathematics for AI** | AI-assisted learning repository: numerical linear algebra, optimization, reproducible experiments and tests. | [Learning repository ↗](https://github.com/MaxScience-PowerAi/Mathematics-for-AI) |
 
 Commercial and personal platform repositories remain private; the public case studies describe the shareable work.
 
