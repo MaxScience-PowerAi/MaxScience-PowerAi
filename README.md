@@ -16,7 +16,7 @@
   &nbsp;·&nbsp;
   <a href="https://www.linkedin.com/in/linze-lowe-christ-maxime/">LinkedIn</a>
   &nbsp;·&nbsp;
-  <a href="https://x.com/LoweChrist13013">X</a>
+  <a href="https://x.com/ChristLoweAI">X</a>
   &nbsp;·&nbsp;
   <a href="https://www.instagram.com/linzelowechrist/">Instagram</a>
   &nbsp;·&nbsp;
