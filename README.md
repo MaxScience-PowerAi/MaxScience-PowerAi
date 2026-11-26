@@ -23,6 +23,14 @@
   <a href="mailto:christlowe6@gmail.com">Contact</a>
 </p>
 
+<p align="center">
+  <a href="https://orcid.org/0009-0008-7098-7804">ORCID: 0009-0008-7098-7804</a>
+  &nbsp;·&nbsp;
+  <a href="https://www.kaggle.com/christlowe">Kaggle</a>
+  &nbsp;·&nbsp;
+  <a href="https://huggingface.co/ChristLowe">Hugging Face</a>
+</p>
+
 ---
 
 ### About
